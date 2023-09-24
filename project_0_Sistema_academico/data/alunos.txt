@@ -1,0 +1,50 @@
+{
+    "2022001": {
+        "nome": "Victoria Fernanda",
+        "turma": 1,
+        "notas": [10.0, 9.0, 10.0, 9.0],
+        "faltas": 2
+        },
+    "2022003": {
+        "nome": "Francisco Almir",
+        "turma": 1,
+        "notas": [10.0, 10.0, 10.0, 10.0],
+        "faltas": 0
+        },
+    "2022004": {
+        "nome": "Ayane Caroline",
+        "turma": 2,
+        "notas": [10.0, 10.0, 10.0, 10.0],
+        "faltas": 0
+        },
+    "2022005": {
+        "nome": "Miguel Ohara",
+        "turma": 1,
+        "notas": [3.0, 3.0, 3.0, 2.0],
+        "faltas": 10
+        },
+    "2022006": {
+        "nome": "Gwen Stacy",
+        "turma": 2,
+        "notas": [10.0, 10.0, 10.0, 10.0],
+        "faltas": 40
+        },
+    "2022007": {
+        "nome": "Geovany Euripedes",
+        "turma": 1,
+        "notas": [9.0, 9.0, 9.0, 4.0],
+        "faltas": 10
+        },
+    "2022006": {
+        "nome": "Gwen Stacy",
+        "turma": 2,
+        "notas": [10.0, 10.0, 10.0, 10.0],
+        "faltas": 40
+        },
+    "2022007": {
+        "nome": "Rodrygo Goes",
+        "turma": 2,
+        "notas": [8.0, 7.0, 6.5, 8.0],
+        "faltas": 15
+        }
+    }
