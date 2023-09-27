@@ -16,4 +16,4 @@ def get_user(id, api_end_point):
 
 users = [user for id in users_id if (user := get_user(id, api_url)) is not None]
 
-print(json.dumps(users, indent=2))
+# print(json.dumps(users, indent=2))
