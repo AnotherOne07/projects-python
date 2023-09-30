@@ -4,4 +4,7 @@
 - [x] Carregamento - Consumo de API REST (PUT)
 
 
+- Situação problema: Extrair informações de uma API, Transformar os dados e
+alimentar a API.
+
 API end-point: https://sdw-2023-prd.up.railway.app/swagger-ui/index.html#/
